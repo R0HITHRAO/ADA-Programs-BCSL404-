@@ -30,6 +30,6 @@ Contributions are welcome!
 
 
 
-Thanks & Regards,
+**Thanks & Regards**,
 
  **Rohith Rao**
