@@ -1,4 +1,4 @@
-# BCSL404 - Computer Science Lab Programs
+# BCSL404 - ADA Lab Programs
 
 This repository contains the lab programs for **BCSL404*** ,part of the Bachelor of Engineering in Computer Science curriculum (VTU). 
 
@@ -19,4 +19,5 @@ Contributions are welcome!
 
 
 Thanks & Regards,
+
  **Rohith Rao**
