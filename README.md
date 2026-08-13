@@ -27,9 +27,6 @@ Contributions are welcome!
 
 
 
+Thankyou!.
 
 
-
-**Thanks & Regards**,
-
- **Rohith Rao**
