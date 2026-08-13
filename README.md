@@ -2,7 +2,7 @@
 
 This repository contains the lab programs for **BCSL404*** ,part of the Bachelor of Engineering in Computer Science curriculum (VTU). 
 
-## 📂 Repository Structure
+ 📂 Repository Structure
 Each folder/file corresponds to a specific lab program.  
 
 ⚠️ Disclaimer
@@ -19,4 +19,4 @@ Contributions are welcome!
 
 
 Thanks & Regards,
- **Rohith Rao***
+ **Rohith Rao**
